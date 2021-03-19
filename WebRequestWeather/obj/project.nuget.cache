@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md/Z52SvygaI0xE18Nv6f6gFuL/q2rZ7u90RAMfhZvIDetyVoCRtgyxb3LEfiAxP8X3aCj70cMUOYA/7GYIzYQ==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Desktop\\C# Learning\\WebRequestWeather\\WebRequestWeather\\WebRequestWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

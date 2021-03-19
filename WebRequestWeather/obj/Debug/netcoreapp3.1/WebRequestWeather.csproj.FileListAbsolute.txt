@@ -1,0 +1,15 @@
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.exe
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.deps.json
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.runtimeconfig.json
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.runtimeconfig.dev.json
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.dll
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\WebRequestWeather.pdb
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.csprojAssemblyReference.cache
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.AssemblyInfoInputs.cache
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.AssemblyInfo.cs
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.csproj.CoreCompileInputs.cache
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.dll
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.pdb
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.genruntimeconfig.cache
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\User\Desktop\C# Learning\WebRequestWeather\WebRequestWeather\obj\Debug\netcoreapp3.1\WebRequestWeather.csproj.CopyComplete
